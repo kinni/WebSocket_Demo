@@ -1,0 +1,9 @@
+{
+  "name": "WebSocket_Demo",
+  "description": "WebSocket Demo with node.js and socket.io",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest"
+  }
+}
